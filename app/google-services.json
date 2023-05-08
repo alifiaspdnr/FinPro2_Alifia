@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392804284386",
+    "project_id": "finpro2-alifia",
+    "storage_bucket": "finpro2-alifia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392804284386:android:eb4b773182f6dd593a2bbb",
+        "android_client_info": {
+          "package_name": "com.example.finpro2_alifia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392804284386-vv9534dj5lmi0suqgdl9dackm9lp6um3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finpro2_alifia",
+            "certificate_hash": "49b8a3e9aceb4ce87583c84f2b068facf8baabfb"
+          }
+        },
+        {
+          "client_id": "392804284386-43nk1jal5vl7fg8jc5c5lfg91mdqdlag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03uWKMTQseMi1kuy-B9HMvT6XfLCM0kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392804284386-43nk1jal5vl7fg8jc5c5lfg91mdqdlag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
